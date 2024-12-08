@@ -7,4 +7,5 @@
 
 ### Visualization : 
 
-![Gold Price Prediction Visualization](images/visualization.png) 
+![visualization.png](https://github.com/Sameh20200218AI/Gold_Price_Prediction_TimeSeries_DL/blob/main/visualization.png) 
+
