@@ -9,3 +9,21 @@
 
 ![visualization.png](https://github.com/Sameh20200218AI/Gold_Price_Prediction_TimeSeries_DL/blob/main/visualization.png) 
 
+### LSTM Result : 
+
+![lstm_result.png](https://github.com/Sameh20200218AI/Gold_Price_Prediction_TimeSeries_DL/blob/main/lstm_result.png) 
+
+
+### RNN Result : 
+
+![rnn_result.png](https://github.com/Sameh20200218AI/Gold_Price_Prediction_TimeSeries_DL/blob/main/rnn_result.png) 
+
+
+### GRU Result : 
+
+![gru_result.png](https://github.com/Sameh20200218AI/Gold_Price_Prediction_TimeSeries_DL/blob/main/gru_result.png) 
+
+
+
+
+
